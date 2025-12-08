@@ -1,0 +1,5 @@
+ping
+build
+.idea
+cmake-build-debug
+CMakeFiles
